@@ -1,1 +1,3 @@
-# i-on-project.github.io
+# i-on project
+
+The home for the i-on project.
